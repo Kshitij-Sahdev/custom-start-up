@@ -1,0 +1,1 @@
+// Clean slate - ready for customizationconsole.log('Start page loaded');document.addEventListener('DOMContentLoaded', () => {    console.log('DOM ready');});
